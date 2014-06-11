@@ -1,5 +1,4 @@
 # Kyle Wetherald
-# 3755237
 # ktw9@pitt.edu
 
 .data
